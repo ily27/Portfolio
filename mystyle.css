@@ -20,6 +20,7 @@ arc: url (Allan-Regular.ttf);
   text-align: center;
   display: flex;
   justify-content: center;
+  text-size: 64px;
 }
 
 body{
