@@ -17,6 +17,7 @@ arc: url (fonts/ Allan/ Allan-Regular.ttf);
 /***********/
 #ili.stration{
   font-family: Cinzel;
+  display: flex;
   justify-content: space-around;
 }
 
