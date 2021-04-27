@@ -4,6 +4,16 @@ font-family: Cinzel;
 arc: url (fonts/ Cinzel/ Cinzel-Black.ttf);
 }
 
+@font-face {
+font-family: Courgette;
+arc: url (fonts/ Courgette/ Courgette-Regular.ttf);
+}
+
+@font-face {
+font-family: Allan;
+arc: url (fonts/ Allan/ Allan-Regular.ttf);
+}
+
 /***********/
 body{
   display: flex;
@@ -25,6 +35,7 @@ h1 {
   justify-content: center;
 }
 #content-box{
+font-family: Courgette;
 background: #fff;
 padding: 15px;
 margin-bottom: 15px;
