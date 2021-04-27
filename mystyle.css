@@ -1,17 +1,17 @@
 /* FONTS**********/
 @font-face {
 font-family: Cinzel;
-src: url (Cinzel-Black.ttf);
+src: url (fonts/ Cinzel/ Cinzel-Black.ttf);
 }
 
 @font-face {
 font-family: Courgette;
-src: url (Courgette-Regular.ttf);
+src: url (fonts/ Courgette/ Courgette-Regular.ttf);
 }
 
 @font-face {
 font-family: Allan;
-src: url (Allan-Regular.ttf);
+src: url (fonts/ Allan/ Allan-Regular.ttf);
 }
 
 /***********/
