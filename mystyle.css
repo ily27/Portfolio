@@ -18,9 +18,8 @@ arc: url (Allan-Regular.ttf);
 #ili.stration{
   font-family: Cinzel;
   text-align: center;
-  display: flex;
   justify-content: center;
-  text-size: 64px;
+  text-size: 90px;
 }
 
 body{
