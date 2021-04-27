@@ -10,10 +10,6 @@ body{
   background: #d9b3ff;
 }
 
-#hero-image{
-  display: flex;
-  justify-content: center;
-}
 
 #container{
   position: relative;
