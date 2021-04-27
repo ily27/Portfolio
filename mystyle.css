@@ -1,0 +1,39 @@
+body{
+  display: flex;
+  justify-content: center;
+  background: #d9b3ff;
+}
+
+#container{
+  position: relative;
+  top: 100px;
+  width:  500px;
+  justify-content: center;
+}
+#content-box{
+background: #fff;
+padding: 15px;
+margin-bottom: 15px;
+border-style: dashed;
+border-color: #99ddff
+}
+
+ul {
+	position: relative;
+  margin-bottom: 12px;
+  list-style-type: none;
+  padding: 13px;
+  display: flex;
+  justify-content: left;
+}
+
+a{
+  text-decoration: none;
+  background: #fff;
+  padding: 17px;
+  height: 12px;
+}
+
+a:hover{
+  background: pink;
+}
