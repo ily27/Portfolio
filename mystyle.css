@@ -15,16 +15,15 @@ arc: url (fonts/ Allan/ Allan-Regular.ttf);
 }
 
 /***********/
+#ili.stration{
+  font-family: Cinzel;
+  justify-content: space-around;
+}
+
 body{
   display: flex;
   justify-content: center;
   background: #d9b3ff;
-}
-
-h1 {
-  font-family: Cinzel;
-  display: flex;
-  justify-content: center;
 }
 
 #container{
