@@ -1,7 +1,18 @@
+/* FONTS**********/
+@font-face {
+
+}
+
+/***********/
 body{
   display: flex;
   justify-content: center;
   background: #d9b3ff;
+}
+
+#hero-image{
+  display: flex;
+  justify-content: center;
 }
 
 #container{
