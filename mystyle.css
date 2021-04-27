@@ -1,24 +1,25 @@
 /* FONTS**********/
 @font-face {
 font-family: Cinzel;
-arc: url (fonts/ Cinzel/ Cinzel-Black.ttf);
+arc: url (Cinzel-Black.ttf);
 }
 
 @font-face {
 font-family: Courgette;
-arc: url (fonts/ Courgette-Regular.ttf);
+arc: url (Courgette-Regular.ttf);
 }
 
 @font-face {
 font-family: Allan;
-arc: url (fonts/ Allan/ Allan-Regular.ttf);
+arc: url (Allan-Regular.ttf);
 }
 
 /***********/
 #ili.stration{
   font-family: Cinzel;
-  display: flex;
   text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 body{
@@ -53,7 +54,7 @@ ul {
 
 a{
   text-decoration: none;
-  background: #fff;
+  background: #d9b3ff;
   padding: 17px;
   height: 12px;
 }
