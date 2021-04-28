@@ -17,6 +17,7 @@ src: url (fonts/Allan-Bold.ttf);
 /************************************/
 #ili.stration{
   font-family: Allan;
+  background: blue;
   text-align: center;
   justify-content: center;
   text-size: 90px;
