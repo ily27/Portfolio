@@ -19,7 +19,7 @@ src: url(fonts/Allan/Allan-Bold.ttf);
 body{
   display: flex;
   justify-content: center;
-  background: #d9b3ff;
+  background: #bc8deb;
 }
 
 #container{
