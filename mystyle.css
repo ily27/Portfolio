@@ -22,11 +22,11 @@ body{
   justify-content: center;
   background-color:#bc8deb;
 background-image:
-radial-gradient(circle at 100% 150%, #bc8deb 24%, #b784eb 24%, #b784eb 28%, #bc8deb 28%, #bc8deb 36%, #b784eb 36%, #b784eb 40%, transparent 40%, transparent),
-radial-gradient(circle at 0    150%, #bc8deb 24%, #b784eb 24%, #b784eb 28%, #bc8deb 28%, #bc8deb 36%, #b784eb 36%, #b784eb 40%, transparent 40%, transparent),
-radial-gradient(circle at 50%  100%, #b784eb 10%, #bc8deb 10%, #bc8deb 23%, #bc8deb 23%, #b784eb 30%, #bc8deb 30%, #bc8deb 43%, #b784eb 43%, #b784eb 50%, #bc8deb 50%, #bc8deb 63%, #b784eb 63%, #b784eb 71%, transparent 71%, transparent),
-radial-gradient(circle at 100% 50%, #b784eb 5%, #bc8deb 5%, #bc8deb 15%, #b784eb 15%, #b784eb 20%, #bc8deb 20%, #bc8deb 29%, #b784eb 29%, #b784eb 34%, #bc8deb 34%, #bc8deb 44%, #b784eb 44%, #b784eb 49%, transparent 49%, transparent),
-radial-gradient(circle at 0    50%, #b784eb 5%, #bc8deb 5%, #bc8deb 15%, #b784eb 15%, #b784eb 20%, #bc8deb 20%, #bc8deb 29%, #b784eb 29%, #b784eb 34%, #bc8deb 34%, #bc8deb 44%, #b784eb 44%, #b784eb 49%, transparent 49%, transparent);
+radial-gradient(circle at 100% 150%, #bc8deb 24%, #c99ef4 24%, #c99ef4 28%, #bc8deb 28%, #bc8deb 36%, #c99ef4 36%, #c99ef4 40%, transparent 40%, transparent),
+radial-gradient(circle at 0    150%, #bc8deb 24%, #c99ef4 24%, #c99ef4 28%, #bc8deb 28%, #bc8deb 36%, #c99ef4 36%, #c99ef4 40%, transparent 40%, transparent),
+radial-gradient(circle at 50%  100%, #c99ef4 10%, #bc8deb 10%, #bc8deb 23%, #bc8deb 23%, #c99ef4 30%, #bc8deb 30%, #bc8deb 43%, #c99ef4 43%, #c99ef4 50%, #bc8deb 50%, #bc8deb 63%, #c99ef4 63%, #c99ef4 71%, transparent 71%, transparent),
+radial-gradient(circle at 100% 50%, #c99ef4 5%, #bc8deb 5%, #bc8deb 15%, #c99ef4 15%, #c99ef4 20%, #bc8deb 20%, #bc8deb 29%, #c99ef4 29%, #c99ef4 34%, #bc8deb 34%, #bc8deb 44%, #c99ef4 44%, #c99ef4 49%, transparent 49%, transparent),
+radial-gradient(circle at 0    50%, #c99ef4 5%, #bc8deb 5%, #bc8deb 15%, #c99ef4 15%, #c99ef4 20%, #bc8deb 20%, #bc8deb 29%, #c99ef4 29%, #c99ef4 34%, #bc8deb 34%, #bc8deb 44%, #c99ef4 44%, #c99ef4 49%, transparent 49%, transparent);
 background-size: 100px 50px;;
 }
 
