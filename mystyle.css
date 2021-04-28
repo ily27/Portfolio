@@ -22,11 +22,11 @@ body{
   justify-content: center;
   background-color:#bc8deb;
 background-image:
-radial-gradient(circle at 100% 150%, purple 24%, white 24%, white 28%, purple 28%, purple 36%, white 36%, white 40%, transparent 40%, transparent),
-radial-gradient(circle at 0    150%, purple 24%, white 24%, white 28%, purple 28%, purple 36%, white 36%, white 40%, transparent 40%, transparent),
-radial-gradient(circle at 50%  100%, white 10%, purple 10%, purple 23%, white 23%, white 30%, purple 30%, purple 43%, white 43%, white 50%, purple 50%, purple 63%, white 63%, white 71%, transparent 71%, transparent),
-radial-gradient(circle at 100% 50%, white 5%, purple 5%, purple 15%, white 15%, white 20%, purple 20%, purple 29%, white 29%, white 34%, purple 34%, purple 44%, white 44%, white 49%, transparent 49%, transparent),
-radial-gradient(circle at 0    50%, white 5%, purple 5%, purple 15%, white 15%, white 20%, purple 20%, purple 29%, white 29%, white 34%, purple 34%, purple 44%, white 44%, white 49%, transparent 49%, transparent);
+radial-gradient(circle at 100% 150%, #bc8deb 24%, white 24%, white 28%, #bc8deb 28%, #bc8deb 36%, white 36%, white 40%, transparent 40%, transparent),
+radial-gradient(circle at 0    150%, #bc8deb 24%, white 24%, white 28%, #bc8deb 28%, #bc8deb 36%, white 36%, white 40%, transparent 40%, transparent),
+radial-gradient(circle at 50%  100%, white 10%, #bc8deb 10%, #bc8deb 23%, #bc8deb 23%, white 30%, #bc8deb 30%, #bc8deb 43%, white 43%, white 50%, #bc8deb 50%, #bc8deb 63%, white 63%, white 71%, transparent 71%, transparent),
+radial-gradient(circle at 100% 50%, white 5%, #bc8deb 5%, #bc8deb 15%, white 15%, white 20%, #bc8deb 20%, #bc8deb 29%, white 29%, white 34%, #bc8deb 34%, #bc8deb 44%, white 44%, white 49%, transparent 49%, transparent),
+radial-gradient(circle at 0    50%, white 5%, #bc8deb 5%, #bc8deb 15%, white 15%, white 20%, #bc8deb 20%, #bc8deb 29%, white 29%, white 34%, #bc8deb 34%, #bc8deb 44%, white 44%, white 49%, transparent 49%, transparent);
 background-size: 100px 50px;;
 }
 
