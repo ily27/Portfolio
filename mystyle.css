@@ -1,22 +1,22 @@
-/* FONTS**********/
+/* FONTS*********************************/
 @font-face {
 font-family: Cinzel;
-src: url (fonts/ Cinzel.zip/ static/ Cinzel-Black.ttf);
+src: url (fonts/Cinzel.zip/ static/ Cinzel-Black.ttf);
 }
 
 @font-face {
 font-family: Courgette;
-src: url (fonts/ Courgette.zip/ static/ Courgette-Regular.ttf);
+src: url (fonts/Courgette.zip/ static/ Courgette-Regular.ttf);
 }
 
 @font-face {
 font-family: Allan;
-src: url (fonts/ Allan/ Allan-Regular.ttf);
+src: url (fonts/Allan-Bold.ttf);
 }
 
-/***********/
+/************************************/
 #ili.stration{
-  font-family: Cinzel;
+  font-family: Allanl;
   text-align: center;
   justify-content: center;
   text-size: 90px;
