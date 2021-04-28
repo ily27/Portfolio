@@ -34,6 +34,15 @@ body{
   justify-content: center;
 }
 
+#ili{
+  font-family: Allan;
+  background: blue;
+  text-align: center;
+  justify-content: center;
+  margin: 45px;
+  text-size: 30px;
+}
+
 #hero-image{
   display: flex;
   justify-content: center;
@@ -44,14 +53,6 @@ body{
   height: 250px;
 }
 
-#ili{
-  font-family: Allan;
-  background: blue;
-  text-align: center;
-  justify-content: center;
-  margin: 45px;
-  text-size: 30px;
-}
 
 #content-box{
 font-family: Cinzel;
