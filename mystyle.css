@@ -1,12 +1,12 @@
 /* FONTS*********************************/
 @font-face {
 font-family: Cinzel;
-src: url (fonts/Cinzel.zip/ static/ Cinzel-Black.ttf);
+src: url (fonts/Cinzel/Cinzel-Black.ttf);
 }
 
 @font-face {
 font-family: Courgette;
-src: url (fonts/Courgette.zip/ static/ Courgette-Regular.ttf);
+src: url (fonts/Courgette/Courgette-Regular.ttf);
 }
 
 @font-face {
@@ -40,7 +40,6 @@ body{
 #hero-image{
   display: flex;
   justify-content: center;
-  background: blue;
 }
 
 #hero-image img{
