@@ -29,14 +29,6 @@ body{
   justify-content: center;
 }
 
-#ili.stration{
-  font-family: Allan;
-  background: blue;
-  text-align: center;
-  justify-content: center;
-  text-size: 90px;
-}
-
 #hero-image{
   display: flex;
   justify-content: center;
@@ -47,6 +39,13 @@ body{
   height: 250px;
 }
 
+#ili.stration{
+  font-family: Allan;
+  background: blue;
+  text-align: center;
+  justify-content: center;
+  text-size: 90px;
+}
 
 #content-box{
 font-family: Courgette;
