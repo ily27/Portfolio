@@ -20,7 +20,7 @@ src: url(fonts/Allan/Allan-Bold.ttf);
 body{
   display: flex;
   justify-content: center;
-  background-color:silver;
+  background-color:#bc8deb;
 background-image:
 radial-gradient(circle at 100% 150%, silver 24%, white 24%, white 28%, silver 28%, silver 36%, white 36%, white 40%, transparent 40%, transparent),
 radial-gradient(circle at 0    150%, silver 24%, white 24%, white 28%, silver 28%, silver 36%, white 36%, white 40%, transparent 40%, transparent),
