@@ -34,7 +34,6 @@ body{
 
 h1 {
   font-family: Courgette;
-  background: pink;
 }
 
 #container{
@@ -49,7 +48,14 @@ h1 {
   justify-content: center;
   margin: 80px;
   font-family: Cinzel;
-  background: white;
+  font-size: 30px;
+}
+
+#hello {
+  text-align: center;
+  justify-content: center;
+  font-family: Allan;
+  font-size: 30px;
 }
 
 #hero-image{
