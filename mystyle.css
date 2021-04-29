@@ -1,3 +1,12 @@
+/* FONTS *****************************************/
+
+@font-face {
+  font-family: Allan
+  src: url(fonts/Allan-Regular.ttf);
+}
+
+/**********************************************/
+
 body{
   display: flex;
   justify-content: center;
@@ -6,6 +15,11 @@ body{
   radial-gradient(circle at 0% 50%, transparent 20%, #bc8deb 21%, #bc8deb 34%, transparent 35%, transparent) 0 -50px;
   background-color: slategray;
   background-size:75px 100px;
+}
+
+h1 {
+  font-family: Allan;
+  background: pink;
 }
 
 #container{
