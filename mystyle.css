@@ -18,6 +18,7 @@ body{
 #ili{
   text-align: center;
   justify-content: center;
+  margin:auto;
 }
 
 #hero-image{
@@ -46,7 +47,7 @@ ul {
   list-style-type: none;
   padding: 13px;
   display: flex;
-  justify-content: left;
+  justify-content: center;
 }
 
 a{
