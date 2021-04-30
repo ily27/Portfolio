@@ -161,12 +161,13 @@ h1 {
   }
 }
 #content-box{
-background: #fff;
+background: #ffff;
 padding: 20px;
 margin-bottom: 15px;
 border-style: dashed;
 border-color: #99ddff
 border-shadow: 6px 6px 6px 3px rgba(0, 0, .05);
+font-family: Allan2;
 }
 
 ul {
