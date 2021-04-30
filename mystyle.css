@@ -114,6 +114,52 @@ h1 {
   }
 }
 
+
+#slider2 {
+  overflow: hidden;
+}
+#slider2 figure {
+  position: relative;
+  width: 500%;
+  margin: 0;
+  left: 0;
+  animation: 10s slider infinite;
+}
+
+#slider2 figure img {
+  width: 20%;
+  float: left;
+}
+
+@keyframes slider2 {
+  0% {
+    left: 0;
+  }
+  20% {
+    left: 0;
+  }
+  25% {
+    left: -100%;
+  }
+  45% {
+    left: -100%;
+  }
+  50% {
+    left: -200%;
+  }
+  70% {
+    left: -200%;
+  }
+  75% {
+    left: -300%;
+  }
+  95% {
+    left: -300%;
+  }
+  100% {
+    left: -400%;
+  }
+}
 #content-box{
 background: #fff;
 padding: 20px;
